@@ -1,4 +1,4 @@
-# SpringMVCHibernate
+# SpringHibernate
 This project use Spring with Hibernate using annotation based configuration. 
 
 Simple CRUD oriented web application containing a form asking user input, saving that input in MySQL database using Hibernate, 
