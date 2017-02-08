@@ -7,7 +7,7 @@ retrieving the records from database and updating or deleting them within transa
 Technologies being used:
 
 * Spring 4.3.6.RELEASE
-* Hibernate Core 5.2.6.Final
+* Hibernate Core 5.1.3.Final
 * validation-api 1.1.0.Final
 * hibernate-validator 5.4.0.Final
 * MySQL Server 5.7
