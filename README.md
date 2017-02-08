@@ -4,7 +4,7 @@ This project use Spring with Hibernate using annotation based configuration.
 Simple CRUD oriented web application containing a form asking user input, saving that input in MySQL database using Hibernate, 
 retrieving the records from database and updating or deleting them within transaction, all using annotation configuration.
 
-Technologies being used:
+Technologies being used: 
 
 * Spring 4.3.6.RELEASE
 * Hibernate Core 5.1.3.Final
